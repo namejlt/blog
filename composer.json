@@ -1,0 +1,13 @@
+{
+    "name": "jlt/blog",
+    "description": "this is a simple blog",
+    "authors": [
+        {
+            "name": "tynam.c",
+            "email": "soloheron001@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
